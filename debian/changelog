@@ -1,0 +1,35 @@
+apps-environment (0.1-6) unstable; urgency=medium
+
+  * build bump
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Sat, 07 Nov 2015 01:16:32 +0200
+
+apps-environment (0.1-5) unstable; urgency=medium
+
+  * Build bump
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Fri, 18 Sep 2015 16:04:14 +0300
+
+apps-environment (0.1-4) unstable; urgency=medium
+
+  * ssl dhparam added
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 01 Jun 2015 19:07:52 +0300
+
+apps-environment (0.1-3) unstable; urgency=medium
+
+  * Version bump
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 09 Apr 2015 18:38:01 +0300
+
+apps-environment (0.1-2) unstable; urgency=medium
+
+  * Description fix
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 09 Apr 2015 18:17:37 +0300
+
+apps-environment (0.1-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 09 Apr 2015 17:44:42 +0300
