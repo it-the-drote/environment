@@ -1,3 +1,9 @@
+apps-environment (0.2-1) unstable; urgency=medium
+
+  * Javascript environment library
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 05 Jan 2016 21:23:26 +0200
+
 apps-environment (0.1-6) unstable; urgency=medium
 
   * build bump

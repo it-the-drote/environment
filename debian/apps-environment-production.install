@@ -1,2 +1,3 @@
 src/production/environment.type /etc/apps
 src/production/ssl/dhparam.pem /etc/ssl/certs
+src/lib/* /usr/lib/apps-environment

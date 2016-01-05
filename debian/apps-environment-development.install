@@ -1,1 +1,2 @@
 src/development/environment.type /etc/apps
+src/lib/* /usr/lib/apps-environment
